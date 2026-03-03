@@ -459,3 +459,4 @@ For issues:
 - [ ] All CRUD operations working
 
 ---
+## Browser → Frontend → API call → Backend → MongoDB → Save data → Return response → UI updates
